@@ -7,4 +7,4 @@ b = (word1 // 2)
 if (word1) % 2==0 :
  print ("Результат:" + word[a] + word[b])
 else:
-  print ("Результат:"+word[b])
+  print ("Результат:" + word[b])
